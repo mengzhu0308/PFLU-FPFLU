@@ -10,11 +10,11 @@ title = {PFLU and FPFLU: Two novel non-monotonic activation functions in convolu
 
 author = {Meng Zhu and Weidong Min and Qi Wang and Song Zou and Xinhao Chen}, 
 
-journal = {Neurocomputing},
+journal = {NeuroComputing},
 
 year = {2020},
 
-doi = {10.1016/j.neucom.2020.11.068},
+doi = {https://doi.org/10.1016/j.neucom.2020.11.068},
 
 url = {http://www.sciencedirect.com/science/article/pii/S0925231220318749}
 
