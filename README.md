@@ -14,7 +14,7 @@ journal = {Neurocomputing},
 
 year = {2020},
 
-doi = {https://doi.org/10.1016/j.neucom.2020.11.068},
+doi = {10.1016/j.neucom.2020.11.068},
 
 url = {http://www.sciencedirect.com/science/article/pii/S0925231220318749}
 
