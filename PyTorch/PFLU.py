@@ -8,6 +8,10 @@ import torch
 from torch import nn
 from torch.autograd import Function
 
+'''
+https://doi.org/10.1016/j.neucom.2020.11.068
+PFLU and FPFLU: Two novel non-monotonic activation functions in convolutional neural networks
+'''
 class PFLUFunction(Function):
     @staticmethod
     def forward(ctx, x):
