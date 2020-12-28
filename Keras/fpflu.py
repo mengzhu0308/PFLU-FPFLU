@@ -9,6 +9,7 @@
 from keras import backend as K
 import keras
 
+# https://doi.org/10.1016/j.neucom.2020.11.068
 def fpflu(x):
     return K.maximum(x, x / (1 + x * x))
 
