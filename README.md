@@ -4,18 +4,20 @@ Codes of the paper "PFLU and FPFLU: Two novel non-monotonic activation functions
 2. Keras
 
 # Citation of the Paper
-@article{ZHU2020,
+@article{Zhu_2021_PFLU,
 
 title = {PFLU and FPFLU: Two novel non-monotonic activation functions in convolutional neural networks},
 
-author = {Meng Zhu and Weidong Min and Qi Wang and Song Zou and Xinhao Chen}, 
+author = {M. Zhu and W. Min and Q. Wang and S. Zou and X. Chen}, 
 
 journal = {NeuroComputing},
 
-year = {2020},
+year = {2021},
 
 doi = {10.1016/j.neucom.2020.11.068},
 
-url = {http://www.sciencedirect.com/science/article/pii/S0925231220318749}
+volume = {429},
+
+pages = {110--117}
 
 }
