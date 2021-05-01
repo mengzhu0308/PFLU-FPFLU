@@ -10,7 +10,7 @@ title = {PFLU and FPFLU: Two novel non-monotonic activation functions in convolu
 
 author = {M. Zhu and W. Min and Q. Wang and S. Zou and X. Chen}, 
 
-journal = {NeuroComputing},
+journal = {Neurocomputing},
 
 year = {2021},
 
